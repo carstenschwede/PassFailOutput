@@ -1,0 +1,27 @@
+{
+  "name": "PassFailOutput",
+  "version": "0.0.0",
+  "description": "Provides pass/fail/warn/error/info/debug functions to print pretty console output",
+  "main": "lib/passfail.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carstenschwede/PassFailOutput.git"
+  },
+  "keywords": [
+    "console",
+    "output"
+  ],
+  "author": "Carsten Schwede",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "colors": "*"
+  }
+}
