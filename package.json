@@ -1,5 +1,5 @@
 {
-  "name": "PassFailOutput",
+  "name": "passfailoutput",
   "version": "0.0.0",
   "description": "Provides pass/fail/warn/error/info/debug functions to print pretty console output",
   "main": "lib/passfail.js",
@@ -19,7 +19,7 @@
   ],
   "author": "Carsten Schwede",
   "license": "BSD",
-  "devDependencies": {
+  "dependencies": {
     "mocha": "*",
     "should": "*",
     "colors": "*"
