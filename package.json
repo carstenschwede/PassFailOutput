@@ -17,6 +17,7 @@
     "console",
     "output"
   ],
+  "private": true,
   "author": "Carsten Schwede",
   "license": "BSD",
   "dependencies": {
